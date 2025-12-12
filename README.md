@@ -35,8 +35,6 @@ Full-stack developer specializing in React, Next.js, React Native and Go, curren
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAUakaAlexey&show_icons=true&theme=default)
-
 ---
 
 💡 *Open to collaboration and job opportunities in Spain and Worldwide*
